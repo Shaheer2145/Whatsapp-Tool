@@ -6,9 +6,16 @@
     "**/*.http",
     "**/*.lock",
     "**/*.md",
+
     "build",
     "public",
-    "src/assets"
+    "src/assets",
+
+    "api-docs",
+    "log",
+    "tokens",
+    "WhatsAppImages"
+
   ],
   "license": "LICENSE.header",
   "licenseFormats": {
